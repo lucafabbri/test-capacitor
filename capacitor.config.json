@@ -1,0 +1,12 @@
+{
+  "appId": "com.rch.testcapacitor",
+  "appName": "test-capacitor",
+  "bundledWebRuntime": true,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
